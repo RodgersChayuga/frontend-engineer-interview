@@ -18,6 +18,17 @@
 > **1. Minimize HTTP requests:** Reducing the number of HTTP requests made by the browser can significantly improve website performance. You can achieve this by combining and minifying CSS and JavaScript files, reducing the number of images on a page, and using CSS sprites.
 
 > **2. Enable caching:** Caching allows the browser to store files from your website on the user's computer, so they don't need to be downloaded every time the user visits your site. You can use HTTP caching headers to control how long files are cached.
+
+> **3. Use a content delivery network (CDN):** A CDN can distribute your website's content across multiple servers around the world, reducing the distance between the user and the server, and improving website speed.
+
+> **4. Optimize images:** Large images can slow down website performance. You can reduce the size of images by compressing them or using appropriate image formats (such as JPEG for photographs and PNG for graphics with transparent backgrounds).
+
+> **5. Minimize server response time:** The server response time is the time it takes for the server to respond to a request. You can minimize this time by optimizing database queries, minimizing HTTP requests, and using a fast hosting provider.
+
+> **6. Reduce page weight:** Page weight refers to the total size of a page, including all files and resources. You can reduce page weight by removing unnecessary files and resources, compressing files, and optimizing code.
+
+> **7. Use asynchronous loading:** Asynchronous loading allows your website to load resources in the background, without blocking other resources from loading. This can significantly improve website speed and performance.
+
 ### Q3. Can you describe how you would implement responsive design on a website?
 ### Q4. How do you handle cross-browser compatibility issues?
 ### Q5. Can you walk us through how you would build a responsive navigation menu using HTML, CSS, and JavaScript?
