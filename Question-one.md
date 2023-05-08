@@ -16,6 +16,8 @@
 ### Q2. How do you optimize website performance?
 
 > **1. Minimize HTTP requests:** Reducing the number of HTTP requests made by the browser can significantly improve website performance. You can achieve this by combining and minifying CSS and JavaScript files, reducing the number of images on a page, and using CSS sprites.
+
+> **2. Enable caching:** Caching allows the browser to store files from your website on the user's computer, so they don't need to be downloaded every time the user visits your site. You can use HTTP caching headers to control how long files are cached.
 ### Q3. Can you describe how you would implement responsive design on a website?
 ### Q4. How do you handle cross-browser compatibility issues?
 ### Q5. Can you walk us through how you would build a responsive navigation menu using HTML, CSS, and JavaScript?
