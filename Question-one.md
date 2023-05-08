@@ -1,6 +1,14 @@
 # FRONTEND ENGINEERING ROLE - INTERVIEW QUESTIONS.
 
 ### Q1. Can you explain how the box model works in CSS?
+
+>The box model is a rectangular model used in CSS to define the space occupied by an HTML element. It consists of four components: content, padding, border, and margin. The width and height of an element are calculated based on the content, padding, and border, but not the margin. Adjusting the padding, border, and margin properties allows you to control the space around and within elements on a web page.
+>* 1. Content: This is the actual content of the element, such as text, images, or videos.
+>* 2. Padding: This is the space between the content and the border. Padding is used to create extra space inside the element and is defined using the padding property in CSS.
+>* 3. Border: This is a line that surrounds the element's content and padding. The border is defined using the border property in CSS and can have a thickness, color, and style.
+>* 4. Margin: This is the space between the border and the adjacent elements. Margin is used to create extra space outside the element and is defined using the margin property in CSS.
+
+
 ### Q2. How do you optimize website performance?
 ### Q3. Can you describe how you would implement responsive design on a website?
 ### Q4. How do you handle cross-browser compatibility issues?
